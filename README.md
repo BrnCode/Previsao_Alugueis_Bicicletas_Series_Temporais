@@ -12,7 +12,7 @@ O objetivo é criar um modelo preditivo com séries temporais, nesse projeto ire
 ### Análise Exploratória de Dados
 Para compreender os dados e as variáveis disponíveis, conduzimos uma análise exploratória detalhada.
 Isso incluiu também a investigação das relações entre as variáveis preditoras e o target, utilizando testes de hipóteses adequados.
-O notebook contendo esta etapa pode ser acessado [aqui]([https://github.com/leticiadluz/ml_internet_provider_churn/blob/main/EDA.ipynb](https://github.com/BrnCode/Previsao_Alugueis_Bicicletas_Series_Temporais/blob/main/EDA_locacoes_de_bicicleta.ipynb).
+O notebook contendo esta etapa pode ser acessado [aqui](https://github.com/BrnCode/Previsao_Alugueis_Bicicletas_Series_Temporais/blob/main/EDA_locacoes_de_bicicleta.ipynb).
 
 ### Modelo Preditivo
 Construi alguns variações do Prophet, visando entender como melhorar o resultado do modelo baseline com alterações nos dados, uso e melhoria de hiperparametros. Nosso modelo final atindiu um RMSE que nos trouxe um erro de 20.24% nos valores preditos no D1.
