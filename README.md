@@ -16,7 +16,7 @@ O notebook contendo esta etapa pode ser acessado [aqui](https://github.com/BrnCo
 
 ### Modelo Preditivo
 Construi alguns variações do Prophet, visando entender como melhorar o resultado do modelo baseline com alterações nos dados, uso e melhoria de hiperparametros. Nosso modelo final atindiu um RMSE que nos trouxe um erro de 20.24% nos valores preditos no D1.
-O notebook contendo esta etapa pode ser acessado [aqui](https://github.com/BrnCode/Previsao_Alugueis_Bicicletas_Series_Temporais/blob/main/Modelo_locacoes_de_bicicletas_ipynb.ipynb)
+O notebook contendo esta etapa pode ser acessado [aqui](https://github.com/BrnCode/Previsao_Alugueis_Bicicletas_Series_Temporais/blob/main/Modelo_locacoes_de_bicicletas.ipynb)
 
 ## Ferramentas utilizadas
 
